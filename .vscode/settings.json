@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "vetur.format.defaultFormatter.html": "prettyhtml",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
